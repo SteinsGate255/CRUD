@@ -6,4 +6,5 @@ public class Breed
     public decimal IdealMaxWeight { get; set; }
     public Species Species { get; set; }
     public int SpeciesId { get; set; }
+
 }
